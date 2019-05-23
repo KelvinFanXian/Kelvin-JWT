@@ -1,5 +1,5 @@
 # Kelvin-JWT
-JWT implement base spring boot
+JWT implement based on spring boot
 
 ## usage
 - extends all abstract class
