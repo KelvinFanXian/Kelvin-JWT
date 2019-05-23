@@ -2,12 +2,10 @@
 JWT implement base spring boot
 
 ## usage
----
 - extends all abstract class
 - override config in application.properties
 
 ## install
----
 - https://jitpack.io/
 ```
 <repositories>
